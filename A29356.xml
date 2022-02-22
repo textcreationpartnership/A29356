@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the parishioners of St. B.--- A.--- [St. Botolph Aldgate] shewing the use and necessity of paying Easter-offerings, now restored to the parish minister.</title>
+            <author>Brewster, Samuel, fl. 1700-1725.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29356</idno>
+            <idno type="STC">Wing B4436</idno>
+            <idno type="STC">ESTC R1656</idno>
+            <idno type="EEBO-CITATION">13070018</idno>
+            <idno type="OCLC">ocm 13070018</idno>
+            <idno type="VID">97109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97109)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 409:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the parishioners of St. B.--- A.--- [St. Botolph Aldgate] shewing the use and necessity of paying Easter-offerings, now restored to the parish minister.</title>
+                  <author>Brewster, Samuel, fl. 1700-1725.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Geo. Strahan ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: S.B. [i.e., S. Brewster]. Cf. BM.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Easter dues --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97109:1"/>
+            <pb facs="tcp:97109:1" rendition="simple:additions"/>
+            <p>A LETTER TO THE PARISHIONERS OF St. <hi>B.— A.—</hi> SHEWING The Uſe and Neceſſity of paying <hi>Eaſter-Offerings,</hi> now reſtored to the Pariſh Mi<g ref="char:EOLhyphen"/>niſter.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Geo. Strahan,</hi> at the <hi>Golde Ball,</hi> over-againſt the <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yal-Exchange,</hi> in <hi>Cornhill.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:97109:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:97109:2"/>
+            <head>A LETTER To the Pariſhioners of St. <hi>B.— A.— Shewing the <g ref="char:V">Ʋ</g>ſe and Neceſ<g ref="char:EOLhyphen"/>ſity of Paying</hi> Eaſter-Offer<g ref="char:EOLhyphen"/>ings.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>THE Feaſt of <hi>Eaſter</hi> is now approaching, wherein our Holy Church Commemorates the great Mercies of God, in ac<g ref="char:EOLhyphen"/>compliſhing
+<pb n="4" facs="tcp:97109:3"/>our Redemption by the Death and Reſurre<g ref="char:EOLhyphen"/>ction of our Bleſſed Saviour. 'Tis at this time, eſpecially, that we ought to expreſs our Thankfulneſs to God, by acts of Piety, and there are no actions ſo worthy our thoughts as thoſe which immediately concern the Honour and Ser<g ref="char:EOLhyphen"/>vice of God. I think it all times my Duty to promote the Intereſt of Religion and the good of your Pariſh, and have therefore, upon your late Vacancy, endeavour'd to make the beſt choice I could of a Miniſter, to inſtruct you for your Soul's Health: I am verily perſwaded, that I have placed one among you, who is both able and willing to diſcharge the Duty of his
+<pb n="5" facs="tcp:97109:3"/>Place; and who, I doubt not, will be careful to watch over you, as becomes a faithful Pa<g ref="char:EOLhyphen"/>ſtor. My next Care is to pro<g ref="char:EOLhyphen"/>vide him a more ſufficient ſup<g ref="char:EOLhyphen"/>port, thereby to encourage his Labours, and to enable him to maintain ſuch Aſſi<g ref="char:EOLhyphen"/>ſtance; as will be needful to perform the great Buſineſs of your Pariſh.</p>
+            <p>I am willing to forego my right to ſome part of that <hi>Revenue,</hi> to which I am legal<g ref="char:EOLhyphen"/>ly Intitul'd, and to apply the ſame for promoting the Ho<g ref="char:EOLhyphen"/>nour of God and Intereſt of his Church; therefore I have authoriz'd Mr <hi>Kennet,</hi> your Mi<g ref="char:EOLhyphen"/>niſter, to collect and take to his own uſe, the <hi>Offerings</hi> due at <hi>Eaſter;</hi> and do earneſtly recom<g ref="char:EOLhyphen"/>mend it to you, as your Du<g ref="char:EOLhyphen"/>ty,
+<pb n="6" facs="tcp:97109:4"/>to pay the ſame, juſtly and conſcientiouſly, which, I hope, you will do, when I have informed you,</p>
+            <p n="1">1. Of the Nature of Offe<g ref="char:EOLhyphen"/>rings.</p>
+            <p n="2">2. The uſe and neceſſity of paying them.</p>
+            <div type="part">
+               <div n="1" type="section">
+                  <head>1ſt, <hi>The Nature of Offerings.</hi>
+                  </head>
+                  <p>By <hi>Offerings</hi> are uſually un<g ref="char:EOLhyphen"/>derſtood thoſe Gifts which are given, by devout Men, to God and the Church, which Gifts were commonly Offered with Solemnity and Devotion, at the <hi>Altar;</hi> ſome upon cer<g ref="char:EOLhyphen"/>tain Feſtival Days, and others upon occaſion of particular Mercies receiv'd by particu<g ref="char:EOLhyphen"/>lar Perſons: Thoſe which were offered upon Feſtival
+<pb n="7" facs="tcp:97109:4"/>Days, were on <hi>Sundays,</hi> the general Days of Chriſtians Aſſembling themſelves, or on certain Feaſt-Days, appointed by the Church to be kept Holy, in remembrance of the great Favours receiv'd from God, in completing our Redemption by the <hi>Conception, Nativity, Death, Reſurrection</hi> and <hi>Aſcenſion,</hi> of our Bleſſed Saviour. Theſe Offerings were at firſt the Free-will Sacrifices of Pious Chriſtians; but when Piety and Zeal grew cold, and Men began to fail of their Duty, then the Laws provi<g ref="char:EOLhyphen"/>ded a Means of aſcertaining every Man's <hi>Offerings,</hi> there<g ref="char:EOLhyphen"/>by to reſerve a competent Livelihood to the Pariſh Mi<g ref="char:EOLhyphen"/>niſter; and now the <hi>Offerings</hi> due by the Laws of the Realm
+<pb n="8" facs="tcp:97109:5"/>are two Pence for every Com<g ref="char:EOLhyphen"/>municant,
+<note place="margin">Note, <hi>That at the time the Offerings were ſetled at that rate, two Pence was equi<g ref="char:EOLhyphen"/>valent to a Shilling at this Day.</hi>
+                     </note> or of every Pa<g ref="char:EOLhyphen"/>riſhioner a<g ref="char:EOLhyphen"/>bove the Age of 16, payable at the Feaſt of <hi>Eaſter,</hi> by the Maſter of every Family, for himſelf, his Wife, Children, and Servants: And now hav<g ref="char:EOLhyphen"/>ing inform'd you of the Na<g ref="char:EOLhyphen"/>ture of Offerings, I am, in the next place, to acquaint you with,</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2dly, <hi>The <g ref="char:V">Ʋ</g>ſe and Neceſ<g ref="char:EOLhyphen"/>ſity of paying Offerings.</hi>
+                  </head>
+                  <p>The chief uſe and deſign of paying Offerings, is, That we may Honour God with our Subſtance, as well as our Bodies; for as he made us,
+<pb n="9" facs="tcp:97109:5"/>ſo he gives us all that we poſſeſs; and 'tis reaſonable, that we ſhould pay him ſome portion of what we enjoy, in token of his Dominion over us, and of our Subjection to him; 'tis the advice of the Wiſe Man, <hi>Honour God with thy Subſtance, and with the first fruits of all thy in<g ref="char:EOLhyphen"/>creaſe,</hi> Prov. 3.9. And it has been always accounted a part of our Worſhip, <hi>To bring Pre<g ref="char:EOLhyphen"/>ſents unto him that ought to be feared,</hi> Pſal. 76.11. Almigh<g ref="char:EOLhyphen"/>ty God took ſpecial Care in the Modelling of the <hi>Jewiſh</hi> Worſhip, <hi>that none ſhould appear before him empty,</hi> Exod. 23.15. That ſo he might be honour'd with a tribute from the <hi>Hands</hi> as well as the <hi>Hearts</hi> of his People.</p>
+                  <pb n="10" facs="tcp:97109:6"/>
+                  <p>The reaſon why God com<g ref="char:EOLhyphen"/>manded the <hi>Jews</hi> to dedi<g ref="char:EOLhyphen"/>cate part of their Wealth, was, for the Maintenance of the <hi>Jewiſh Clergy,</hi> a ſet of Men appointed to be free from Se<g ref="char:EOLhyphen"/>cular Employments, that they might offer up Prayers and Sacrifices for that People. The ſame Care hath God ta<g ref="char:EOLhyphen"/>ken of a more <hi>Royal Prieſt<g ref="char:EOLhyphen"/>hood,</hi> that of the Chriſtian Church; for, as by the par<g ref="char:EOLhyphen"/>ticular command of God, <hi>Thoſe who ſerved at the Altar, were partakers of the Altar,</hi> ſo, under the Chriſtian Diſpen<g ref="char:EOLhyphen"/>ſation, Chriſt has ordained, That <hi>thoſe who Preach the Goſ<g ref="char:EOLhyphen"/>pel, ſhould live of the Goſpel,</hi> 1 Cor. 9.13, 14. and great reaſon it is, That thoſe who diſpenſe to us Spiritual Com<g ref="char:EOLhyphen"/>forts,
+<pb n="11" facs="tcp:97109:6"/>ſhould be ſupplyed, by us, with Temporal Conveni<g ref="char:EOLhyphen"/>encies.</p>
+                  <p>I take the liberty to pre<g ref="char:EOLhyphen"/>ſcribe you two ſhort Rules for your more faithful diſ<g ref="char:EOLhyphen"/>charge of this Duty; they are,
+<list>
+                        <item>1. <hi>Juſtice.</hi>
+                        </item>
+                        <item>2. <hi>Chearfulneſs.</hi>
+                        </item>
+                     </list>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <div n="1" type="section">
+                  <head>1. JUSTICE.</head>
+                  <p>All Perſons whatſoever, as well Adverſaries as Friends, have a right to our <hi>Juſt Dea<g ref="char:EOLhyphen"/>ling;</hi> but more eſpecially they are intitul'd to it, who may be truly termed our Benefa<g ref="char:EOLhyphen"/>ctors; ſuch are the Miniſters of Chriſt, whoſe Buſineſs and Care it is to inſtruct us and inform us in all things neceſ<g ref="char:EOLhyphen"/>ſary
+<pb n="12" facs="tcp:97109:7"/>to Salvation; they are thoſe who by wholſom Do<g ref="char:EOLhyphen"/>ctrines and Advice, do keep us from degenerating into wild and ſavage Creatures; for ſuch were the Inhabi<g ref="char:EOLhyphen"/>tants of this Iſland, before the Glorious Light of the Goſpel ſpread its bright Beams upon this Land. The Er<g ref="char:EOLhyphen"/>rand of thoſe who Preach the Goſpel, is not to make us an offer of ſhort and tran<g ref="char:EOLhyphen"/>ſient Pleaſures, but to lead us into that way which will bring us to a durable and e<g ref="char:EOLhyphen"/>verlaſting Happineſs: And ſurely, thoſe who teach us <hi>Devotion towards God, and upright Dealing towards others,</hi> have deſervedly a right to our <hi>Juſtice.</hi>
+                  </p>
+                  <pb n="13" facs="tcp:97109:7"/>
+                  <p>I have no reaſon to doubt your <hi>Juſtice</hi> to your Mini<g ref="char:EOLhyphen"/>ſter, when I conſider with what <hi>Zeal</hi> you are promot<g ref="char:EOLhyphen"/>ing ſome good Works in your Pariſh, towards the ſupport of the Poor, and the propa<g ref="char:EOLhyphen"/>gating Chriſtian Knowledge among the younger ſort; but give me leave, in a few words, to acquaint you what Offerings you are obliged to pay.</p>
+                  <p>The Offerings then that you are legally obliged to pay Mr. <hi>Kennet,</hi> are two Pence a Head, according to the Num<g ref="char:EOLhyphen"/>ber of your Families, as I have before informed you; but ſeeing I have, for your ſake, and for the Honour of Religion, reſtor'd them to their firſt Religious Uſe, I
+<pb n="14" facs="tcp:97109:8"/>rather wiſh that you would think your ſelves obliged to do as did the Primitive Chri<g ref="char:EOLhyphen"/>ſtians, thoſe Pious Souls, who began to Honour God with their Subſtance, as ſoon as they had embrac'd the hap<g ref="char:EOLhyphen"/>pineſs of the Chriſtian Faith; for they thought themſelves oblig'd to offer according to their <hi>Ability,</hi> and thought nothing too much for them who Preached the glad tid<g ref="char:EOLhyphen"/>ings of the Goſpel; but alas, many in this Age are arriv'd to that heinous de<g ref="char:EOLhyphen"/>gree of Impiety, as not only to grudge the giving a little of their abundance, but even to wrong and deprive their Miniſters of what they can clandeſtinely conceal from them.</p>
+                  <pb n="15" facs="tcp:97109:8"/>
+                  <p>I would therefore exhort you, for your own ſakes, as well as that of your Miniſter, in the making your Offerings, to con<g ref="char:EOLhyphen"/>ſider your own Abilities; and if you intend to act the parts of good Chriſtians, and are reſolved to manifeſt your ſelves true Servants of God, to pay your Offerings not barely according to the Rules preſcrib'd by the Laws of the Land, but according to the Reaſon and Dictates of a good Conſcience, and according as God hath bleſ<g ref="char:EOLhyphen"/>ſed you; 'tis true, that ac<g ref="char:EOLhyphen"/>cording to the Laws and Sta<g ref="char:EOLhyphen"/>tutes of this Realm, no other <hi>Offerings</hi> can be exacted than what are preſcrib'd by Law, but a good Chriſtian will not think he has done his
+<pb n="16" facs="tcp:97109:9"/>Duty, when he has done all that the Laws oblige him; thus, for example, a conſcien<g ref="char:EOLhyphen"/>tious Perſon will think him<g ref="char:EOLhyphen"/>ſelf bound to ſerve God eve<g ref="char:EOLhyphen"/>ry day, tho' the Laws com<g ref="char:EOLhyphen"/>pel him only to Worſhip God on <hi>Sundays.</hi>
+                  </p>
+                  <p>You will alſo think your ſelves obliged to offer accor<g ref="char:EOLhyphen"/>ding to your Ability, if you conſider, when you make your <hi>Offering,</hi> that God is not plea<g ref="char:EOLhyphen"/>ſed with a mean and ſordid Service; for he has diſcou<g ref="char:EOLhyphen"/>raged the Offering of thoſe who Offer the <hi>Price of a Dog, or the hire of a Harlot,</hi> Deut. 23.18. That is an Oblation which is mean and nothing worth, or that which is got by Wickedneſs and Injuſtice; but he has encourag'd thoſe
+<pb n="17" facs="tcp:97109:9"/>to hope for a <hi>plentiful Har<g ref="char:EOLhyphen"/>veſt, who ſow their ſeed plenti<g ref="char:EOLhyphen"/>fully; but they that ſow ſpa<g ref="char:EOLhyphen"/>ringly, ſhall alſo reap ſparing<g ref="char:EOLhyphen"/>ly.</hi>
+                  </p>
+                  <p>Now that your <hi>Offering</hi> may truly become a Religious Per<g ref="char:EOLhyphen"/>formance, I ſhall further di<g ref="char:EOLhyphen"/>rect you in the other Rule I propos'd, and that is,</p>
+               </div>
+               <div n="2" type="section">
+                  <head>2. CHEARFULNESS.</head>
+                  <p>
+                     <hi>Chearfulneſs</hi> is at all times the Duty of a Chriſtian, but then eſpecially, when he is about to exerciſe a Religi<g ref="char:EOLhyphen"/>ous act, ſuch as is the payment of <hi>Offerings</hi> towards the Main<g ref="char:EOLhyphen"/>tenance of our Miniſters, <hi>thoſe Embaſſadors of Christ;</hi> for whether we diſtribute Alms, or make an Oblation, we
+<pb n="18" facs="tcp:97109:10"/>ought to do it chearfully and not grudgingly or of neceſ<g ref="char:EOLhyphen"/>ſity, becauſe God loveth a chearful giver, 2 <hi>Cor.</hi> 9, 6, 7. I am not deſirous to boaſt of my good intention to<g ref="char:EOLhyphen"/>wards you, in beſtowing thoſe legal Dues of mine upon your well-deſerving Miniſter, but this I deſire to aſſure you, that I have done it chear<g ref="char:EOLhyphen"/>fully, with a proſpect of pro<g ref="char:EOLhyphen"/>moting your Good, and there<g ref="char:EOLhyphen"/>in the Glory of God, and Ho<g ref="char:EOLhyphen"/>nour of Religion.</p>
+                  <p>I intreat you alſo to re<g ref="char:EOLhyphen"/>member, That as the juſt and conſcientious payment of your <hi>Offerings</hi> will be a well-plea<g ref="char:EOLhyphen"/>ſing Sacrifice to God, for the Reaſons before-mention'd, ſo it is the higheſt Indignity and Affront to Almighty God, to
+<pb n="19" facs="tcp:97109:10"/>withhold whatſoever is De<g ref="char:EOLhyphen"/>dicated to the Service of his Miniſters; for he counts it no leſs than <hi>Sacriledge,</hi> Mal. 3.8. the worſt ſort of Rob<g ref="char:EOLhyphen"/>bery, and which was one great cauſe of God's inflict<g ref="char:EOLhyphen"/>ing heavy Judgments upon the <hi>Jews;</hi> for you may ob<g ref="char:EOLhyphen"/>ſerve a ſevere Doom pro<g ref="char:EOLhyphen"/>nounced by the Prophet <hi>Ma<g ref="char:EOLhyphen"/>lachi</hi> for this very Sin, <hi>Mal.</hi> 3.9. which may ſerve as a ſufficient Warning for all thoſe who boaſt themſelves in their Cunning of defraud<g ref="char:EOLhyphen"/>ing their Miniſter, and con<g ref="char:EOLhyphen"/>cealing his Dues: But let ſuch remember, That tho' they eſcape Vengeance here, yet they are heaping up to themſelves Wrath againſt the
+<pb n="20" facs="tcp:97109:11"/>Day of Wrath; which, that you may eſcape, ſhall be the hum<g ref="char:EOLhyphen"/>ble and fervent Prayer of,</p>
+               </div>
+            </div>
+            <closer>
+               <signed>Your Chriſtian Friend and Brother, S. B.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97109:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
